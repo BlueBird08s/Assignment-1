@@ -1,0 +1,47 @@
+.sec-1  {
+    background-image: url(resources/Banner\ Image.png);
+    width: 1320px;
+    height: 600px;
+    background-repeat: none;
+    border-radius: 16px;
+    margin: 80px 280px 50px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.h1-1{
+    color: white;
+    text-align: center;
+    margin: 150px 400px 50px;
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 62px;
+    font-style: normal;
+    font-weight: 900;
+    margin-top: 0px;
+    
+}
+.h3-1{
+    color: white;
+    text-align: center;
+    margin: 150px 400px 50px;
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 900;
+    margin-bottom: 0px;
+}
+
+.sec-3{
+    background-image: url(resources/Vectorrr.png);
+    width: 1320px;
+    height: 600px;
+    background-repeat: none;
+    border-radius: 16px;
+    margin: 80px 280px 50px;
+    display: flex;
+    justify-content: center;
+    
+}
