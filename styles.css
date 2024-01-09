@@ -34,6 +34,46 @@
     margin-bottom: 0px;
 }
 
+.h1-2{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.h6-2{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-bottom: 10px;
+}
+
+.h3-2{
+    color: #070211;
+
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 10px;
+}
+
+.img-1{
+    width: 100%;
+    margin: 140px 550px;;
+    
+}
+
 .sec-3{
     background-image: url(resources/Vectorrr.png);
     width: 1320px;
@@ -44,4 +84,372 @@
     display: flex;
     justify-content: center;
     
+}
+
+.sec-3 .sec-3a .div-3 .qqq{
+    color: #FFF;
+
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px;
+letter-spacing: 7.04px;
+margin-left: 30px;
+width: 600px;
+}
+
+.sec-3 .sec-3a .div-3 .www{
+    color: rgba(255, 255, 255, 0.80);
+
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-left: 30px;
+}
+
+.sec-3 .sec-3a .button-1{
+    color: #FFF;
+    margin-left: 30px;
+    font-weight: 600;
+
+
+}
+
+.img-1.1{
+    
+    width: 300px;
+    height: 400px;
+    margin: 80px 280px 50px;
+    
+
+}
+
+.sec-4 .abcd .div-4{
+        font-size: 30px;
+}
+
+
+
+
+.h4{
+    color: #F00;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+
+.button-2{
+    color: white;
+    font-weight: 700;
+    display: inline-flex;
+    padding: 5px 10px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 6px;
+    background: #F00;
+}
+
+.sec-4{
+    text-align: center;
+    background: linear-gradient(180deg, rgb(255, 184, 184), rgb(255, 214, 214) );
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+      
+}
+
+.div-5{
+    float:left;
+    width: 25%;
+    margin-left: 50px;
+}
+
+
+.div-h5{
+    color: red;
+    font-size: 24px;
+    font-weight: 500;
+}
+.div-h2{
+    font-weight: 900;
+    font-size: 48px;
+}
+.div-p1{
+    color: rgba(7, 2, 17, 0.60);
+
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+}
+
+.img-2{
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.img-a{
+    border-radius: 50%;
+    border: 10px solid red;
+    padding: 20px;
+}
+.div-50{
+    float: right;
+    width: 25%;
+    margin-right: 50px;
+}
+
+.div-50-h2{
+    color: #F00;
+
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.div-50-p{
+    color: rgba(7, 2, 17, 0.60);
+
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+}
+
+.img-2.1{
+    width: 140px;
+    height: 140px;
+}
+
+.sec-5{
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-7{
+    color: #070211;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.sec-7 .div-7a .div7a-h1 .holi{
+    color:red;
+    font-family: Merriweather;
+    font-size: 100px;
+    font-weight: 900;
+    line-height: normal; 
+    }
+
+.sec-7 .div-7a .div7a-h1{
+color:black;
+font-family: Merriweather;
+font-size: 100px;
+font-weight: 900;
+line-height: normal;
+}
+
+.sec-7 .div7a-p{
+    color: rgba(7, 2, 17, 0.60);
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 32px;
+    }
+
+
+
+.sec-7{
+    text-align: center;
+    margin-top: 200px;
+    height: 400px;
+}
+.sec-8 .div-8{
+    background-position: bottom;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.sec-8 .div-8 .ddd{
+    background-image: url(resources/Rectangle\ 1.png);
+    background-repeat: none;
+    justify-content: left;
+}
+
+.sec-9{
+    width: 1600px;
+height: 1500px;
+}
+
+.sec-9 .div-9 .h9a{
+    color: #F00;
+
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.sec-9 .div-9 .h99{
+    color: #070211;
+
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+
+.sec-9 .div-9 .p999{
+    color: rgba(7, 2, 17, 0.60);
+
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+}
+
+.sec-9 .div-9a{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    margin-bottom: 100px;
+
+}
+
+.sec-9 .div-9b{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.sec-10{
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    width: 1600px;
+    height: 616px;
+    margin-bottom: 200px;
+}
+
+.sec-10 .div-10{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.sec-10 .div-10a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #070211;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+    
+}
+
+.sec-10 .div-10b{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgba(7, 2, 17, 0.60);
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+    
+}
+
+.sec-10 .div-10c{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.sec-11{
+    width: 1600px;
+height: 609px;
+flex-shrink: 0;
+background: #070211;
+}
+
+.sec-11 .div-11{
+    color: #FFF;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px;
+margin-top: 110px;
+margin-left: 140px;
+float: left;
+}
+
+.sec-11 .div-11a{
+    color: #FFF;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px;
+float: right;
+margin-top: 110px;
+margin-right: 140px;
+}
+
+.sec-11 .div-11a{
+    color: #FFF;
+}
+
+.sec-11 .div-11a{
+    color: #FFF;
+}
+
+.sec-11 .div-11b{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 400px;
+    margin-left:  550px;
+    margin-right:  550px;
+    padding-top: 400px;
+    
+
 }
